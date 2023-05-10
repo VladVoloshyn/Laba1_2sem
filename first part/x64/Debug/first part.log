@@ -1,0 +1,7 @@
+﻿  GameController.cpp
+  GameRender.cpp
+C:\Users\volos\OneDrive\Рабочий стол\first part\GameRender.cpp(38,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\volos\OneDrive\Рабочий стол\first part\GameRender.cpp(38,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  main.cpp
+  Создание кода...
+  first part.vcxproj -> C:\Users\volos\OneDrive\Рабочий стол\first part\x64\Debug\first part.exe
