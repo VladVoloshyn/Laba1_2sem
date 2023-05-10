@@ -1,0 +1,49 @@
+﻿  Assets.cpp
+C:\Users\Andrey\source\repos\Project1\Project1\Assets.h(10,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  ClientController.cpp
+C:\Users\Andrey\source\repos\Project1\Project1\ClientController.cpp(8,10): fatal  error C1083: Не удается открыть файл включение: SFML/Network.hpp: No such file or directory,
+  GameController.cpp
+C:\Users\Andrey\source\repos\Project1\Project1\GameRender.h(11,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  GameModel.cpp
+C:\Users\Andrey\source\repos\Project1\Project1\Player.h(12,27): error C2429: для функция языка "nested-namespace-definition" нужен флаг компилятора "/std:c++17"
+C:\Users\Andrey\source\repos\Project1\Project1\Singleton.h(139,22): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+C:\Users\Andrey\source\repos\Project1\Project1\Singleton.h(141,2): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Singleton<T>"
+C:\Users\Andrey\source\repos\Project1\Project1\GameModel.h(18,27): error C2429: для функция языка "nested-namespace-definition" нужен флаг компилятора "/std:c++17"
+C:\Users\Andrey\source\repos\Project1\Project1\Singleton.h(139,22): error C2864: "Singleton<Docking::Client::GameModel>::s_Instance": статический элемент элемент данных с инициализатором внутри класса должен иметь неизменяемый целочисленный константный тип или должен быть указан как "inline"
+C:\Users\Andrey\source\repos\Project1\Project1\Singleton.h(139,1): message : тип: T *
+          with
+          [
+              T=Docking::Client::GameModel
+          ]
+C:\Users\Andrey\source\repos\Project1\Project1\GameModel.cpp(10,27): error C2429: для функция языка "nested-namespace-definition" нужен флаг компилятора "/std:c++17"
+  GameRender.cpp
+C:\Users\Andrey\source\repos\Project1\Project1\GameRender.h(11,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  LeadersController.cpp
+C:\Users\Andrey\source\repos\Project1\Project1\LeadersRender.h(10,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  LeadersRender.cpp
+C:\Users\Andrey\source\repos\Project1\Project1\LeadersRender.h(10,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  main.cpp
+C:\Users\Andrey\source\repos\Project1\Project1\Player.h(12,27): error C2429: для функция языка "nested-namespace-definition" нужен флаг компилятора "/std:c++17"
+C:\Users\Andrey\source\repos\Project1\Project1\Singleton.h(139,22): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+C:\Users\Andrey\source\repos\Project1\Project1\Singleton.h(141,2): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Singleton<T>"
+C:\Users\Andrey\source\repos\Project1\Project1\GameModel.h(18,27): error C2429: для функция языка "nested-namespace-definition" нужен флаг компилятора "/std:c++17"
+C:\Users\Andrey\source\repos\Project1\Project1\Singleton.h(139,22): error C2864: "Singleton<Docking::Client::GameModel>::s_Instance": статический элемент элемент данных с инициализатором внутри класса должен иметь неизменяемый целочисленный константный тип или должен быть указан как "inline"
+C:\Users\Andrey\source\repos\Project1\Project1\Singleton.h(139,1): message : тип: T *
+          with
+          [
+              T=Docking::Client::GameModel
+          ]
+C:\Users\Andrey\source\repos\Project1\Project1\GameRender.h(11,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  MenuController.cpp
+C:\Users\Andrey\source\repos\Project1\Project1\MenuRender.h(10,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  MenuRender.cpp
+C:\Users\Andrey\source\repos\Project1\Project1\MenuRender.h(10,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  NetworkManager.cpp
+C:\Users\Andrey\source\repos\Project1\Project1\NetworkManager.h(10,10): fatal  error C1083: Не удается открыть файл включение: SFML/Network.hpp: No such file or directory,
+  Player.cpp
+C:\Users\Andrey\source\repos\Project1\Project1\Player.h(12,27): error C2429: для функция языка "nested-namespace-definition" нужен флаг компилятора "/std:c++17"
+C:\Users\Andrey\source\repos\Project1\Project1\Player.cpp(11,27): error C2429: для функция языка "nested-namespace-definition" нужен флаг компилятора "/std:c++17"
+  SignController.cpp
+C:\Users\Andrey\source\repos\Project1\Project1\SignRender.h(10,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  SignRender.cpp
+C:\Users\Andrey\source\repos\Project1\Project1\SignRender.h(10,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
